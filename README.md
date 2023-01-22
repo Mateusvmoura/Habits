@@ -24,3 +24,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projetos 
 O Habits é um app para ajudar a rastreas os hábitos.
+- [Visite o projeto online](https://mateusvmoura.github.io/Habits/)
